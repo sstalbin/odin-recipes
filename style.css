@@ -1,0 +1,30 @@
+.homepage,
+.honeygarlic {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+    font-size: 48px;
+}
+
+.honeygarlic {
+    font-weight: 400;
+}
+
+.cuke-instructions,
+.cuke-instructions-two,
+.cuke-list,
+.ordered-salad-list .cuke-instructions-three {
+    color: green;
+    font-size: 18px;
+}
+
+.unordered-salad-list .cuke-ingredient {
+    color: red;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.cuke-image {
+    height: auto;
+    width: 600px;
+}
