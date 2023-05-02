@@ -1,8 +1,21 @@
-.homepage,
-.honeygarlic {
+.homepage {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: blue;
+    background-color: #FFC686;
     font-size: 48px;
+}
+
+.heading {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blueviolet;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.smaller-heading {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #002E8B;
+    font-weight: bolder;
 }
 
 .honeygarlic {
@@ -27,4 +40,26 @@
 .cuke-image {
     height: auto;
     width: 600px;
+}
+
+.honey-text {
+    color: #692EB4;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.honey-image {
+    height: auto;
+    width: 300px;
+}
+
+.pizza-image {
+    height: auto;
+    width: 450px;
+}
+
+.pizza-text {
+    color:#E71A4B;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: lighter;
+    background-color: aliceblue;
 }
